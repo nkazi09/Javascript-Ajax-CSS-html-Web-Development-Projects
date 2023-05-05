@@ -1,6 +1,5 @@
 /*
-Nadia Kazi, CSE 190M
-May 16, 2012, Section MJ
+Nadia Kazi, 
 The purpose of this file is to produce a game called Fifteen puzzle. When a user 
 touch a tile it produces a certain behavior. For instance, the tile might move,
 the tile might not move, shuffle all the tiles randomly and so on.
